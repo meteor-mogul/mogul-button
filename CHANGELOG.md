@@ -1,5 +1,11 @@
 # Changelog for mogul-button
 
+## 0.1.2 - (2018-01-04)
+
+### Changed
+
+- No, really specify meteormogul:vue-dist@2.5.15
+
 ## 0.1.1 - (2018-01-04)
 
 ### Changed

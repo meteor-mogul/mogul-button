@@ -19,4 +19,4 @@ insecure                      # Allow all DB writes from clients (for prototypin
 
 static-html                   # Doesn't compile Blaze templates
 
-meteormogul:vue-dist          # VueJS JavaScript framework (replaces Blaze)
+meteormogul:vue-dist@2.5.15   # VueJS JavaScript framework (replaces Blaze)
