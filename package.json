@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "mogulbutton",
   "private": true,
   "scripts": {
     "start": "meteor run"

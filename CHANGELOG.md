@@ -1,5 +1,12 @@
 # Changelog for mogul-button
 
+## 0.1.1 - (2018-01-04)
+
+### Changed
+
+- Update name of package in package.json
+- Specify version 2.5.15 of meteormogul:vue-dist
+
 ## 0.1.0 - (2018-01-04)
 
 ### Changed
