@@ -1,5 +1,13 @@
 # Changelog for mogul-button
 
+## [0.1.3] - 2018-01-05
+
+### Changed
+
+- Split components HTML into separate .html file.
+- Commented code.
+- Standard format for Changelog entries.
+
 ## 0.1.2 - (2018-01-04)
 
 ### Changed

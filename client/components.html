@@ -1,0 +1,29 @@
+<body>
+  <!-- Can define VueJS component templates in .html file.
+       Must be inside body tags so static-html knows what to do with them. -->
+
+  <!-- Simple template, just plain HTML -->
+  <script type="text/x-template" id="info-template">
+   <div>
+     <h2>Learn Meteor!</h2>
+     <ul>
+       <li><a href="https://www.meteor.com/try" target="_blank">Do the Tutorial</a></li>
+       <li><a href="http://guide.meteor.com" target="_blank">Follow the Guide</a></li>
+       <li><a href="https://docs.meteor.com" target="_blank">Read the Docs</a></li>
+       <li><a href="https://forums.meteor.com" target="_blank">Discussions</a></li>
+     </ul>
+   </div>
+  </script>
+
+  <!-- This template shows how to do reactive data -->
+  <script type="text/x-template" id="hello-template">
+    <div>
+      <!-- Magic happens with the "v-on:click" event handler.
+           Add one to the counter data when button clicked. -->
+      <button v-on:click="counter += 1">Click Me</button>
+      <!-- The value of counter gets rendered in place of {{counter}} -->
+      <p>You've pressed the button {{counter}} times.</p>
+    </div>
+  </script>
+
+</body>
