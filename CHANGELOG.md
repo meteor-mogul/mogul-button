@@ -1,5 +1,9 @@
 # Changelog for mogul-button
 
+## [0.1.4] - 2018-03-02
+
+- Updated to Meteor 1.6.1
+
 ## [0.1.3] - 2018-01-05
 
 ### Changed
